@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\manon\desktop\ludus\3 eme année\programmation\visual_studio_projects\bullandcowgame\bullandcowgame\main.cpp(10): warning C4101: 'compteur' : variable locale non référencée
+  BCClasse.cpp
+  Génération de code en cours...
+  BullAndCowGame.vcxproj -> C:\Users\Manon\Desktop\LUDUS\3 eme année\Programmation\visual_studio_projects\BullAndCowGame\Debug\BullAndCowGame.exe
+  BullAndCowGame.vcxproj -> C:\Users\Manon\Desktop\LUDUS\3 eme année\Programmation\visual_studio_projects\BullAndCowGame\Debug\BullAndCowGame.pdb (Partial PDB)
